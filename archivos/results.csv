@@ -1,0 +1,53 @@
+1,retail,SA1554KF,Polera,10,tienda-A,casa-A
+2,retail,SA1684AH,Pantalón,12,tienda-B,casa-B
+3,retail,SA5698PO,Televisor,110,tienda-C,casa-C
+4,retail,SA5897AS,Consola de Videojuegos,95,tienda-A,casa-D
+5,retail,SA1589GD,Lavadora,100,tienda-B,casa-Q
+6,retail,SA8859SS,Polerón,15,tienda-C,casa-A
+7,retail,SA5713AS,Parca,20,tienda-B,casa-C
+8,retail,SA2589TR,Pelota,5,tienda-C,casa-P
+9,retail,SA1597EF,Raqueta,20,tienda-A,casa-F
+10,retail,SA3574FG,Refrigerador,120,tienda-B,casa-U
+11,retail,SA3698HJ,Tostador,25,tienda-C,casa-A
+12,retail,SA2563AS,Perfume,15,tienda-A,casa-N
+13,retail,SA1937JH,Tobillera,6,tienda-C,casa-N
+14,retail,SA5648AA,Notebook,80,tienda-B,casa-A
+15,retail,SA6947GH,Set de ollas,50,tienda-C,casa-C
+16,retail,SA5588HJ,Parlante,25,tienda-C,casa-E
+17,retail,SA6644DS,Lampara,30,tienda-A,casa-A
+18,retail,SA5974AA,Sillón,105,tienda-C,casa-C
+19,retail,SA2596NH,Mesa,90,tienda-A,casa-S
+20,retail,SA7748JK,Cama,115,tienda-B,casa-A
+21,pyme,BE127,Secador de pelo,15,pyme,casa-K,1
+22,pyme,BE666,Jabón para la ducha,8,pyme,casa-A,1
+23,pyme,BE855,Acondicionador,10,pyme,casa-A,0
+24,pyme,BE654,Shampoo,10,pyme,casa-D,0
+25,pyme,BE785,Crema para peinar,8,pyme,casa-E,1
+26,pyme,PF654,Placa madre,50,pyme,casa-B,1
+27,pyme,PF125,Procesador R,75,pyme,casa-N,0
+28,pyme,PF111,Ventilador,10,pyme,casa-N,1
+29,pyme,PF245,Gabinete,20,pyme,casa-S,0
+30,pyme,PF225,Fuente de poder,25,pyme,casa-P,1
+31,pyme,PF354,Memoria RAM,22,pyme,casa-R,0
+32,pyme,PF542,Procesador I,90,pyme,casa-N,0
+33,pyme,PF452,Tarjeta de video,115,pyme,casa-I,1
+34,pyme,OF352,Set de plumones,9,pyme,casa-C,1
+35,pyme,OF754,Cuadernos,5,pyme,casa-C,0
+36,pyme,OF554,Lapices,4,pyme,casa-I,0
+37,pyme,DE123,Zapatillas de futbol,16,pyme,casa-E,0
+38,pyme,DE654,Pelota de futbol,11,pyme,casa-V,1
+39,pyme,DE786,Raqueta de tenis,15,pyme,casa-Z,1
+40,pyme,DE245,Palo de golf,18,pyme,casa-Y,1
+41,pyme,CC122,Polera,9,pyme,casa-F,0
+42,pyme,CC147,Pantalón,11,pyme,casa-C,1
+43,pyme,CC124,Abrigo,17,pyme,casa-U,0
+44,pyme,CC175,Bufanda,6,pyme,casa-A,1
+45,pyme,CC121,Chaqueta,16,pyme,casa-X,0
+46,pyme,CC147,Sueter,14,pyme,casa-C,1
+47,pyme,CC121,Pantalón,10,pyme,casa-A,0
+48,pyme,CC454,Polera,7,pyme,casa-Q,0
+49,pyme,GG257,Pistachos: 200 g,4,pyme,casa-B,0
+50,pyme,GG124,Mani: 1 Kg,5,pyme,casa-A,0
+51,pyme,GG568,Almendras: 500 g,5,pyme,casa-L,0
+52,pyme,GG301,Chia: 500 g,6,pyme,casa-D,0
+53,pyme,GG458,Arroz: 1 Kg,3,pyme,casa-C,1
