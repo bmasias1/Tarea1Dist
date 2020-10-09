@@ -13,7 +13,7 @@ func Send(aEnviar string) {
 	//fmt.Println("Ingresa la ip")
 	var addr string
 	//fmt.Scanf("%s", &addr)
-	addr = ":50051"
+	addr = "10.10.28.154:50051"
 	conn, err := grpc.Dial(addr, grpc.WithInsecure())
 	if err != nil {
 		log.Fatalf("No se pudo conectar: %s", err)
